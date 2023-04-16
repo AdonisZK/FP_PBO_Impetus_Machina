@@ -1,9 +1,7 @@
-# FP_PBO_IM_185_226_chunchunmaru
-
 ## Final project kelas PBO D ITS 2022 <br />
 ### Chunchunmaru
-Rano Noumi Sulistyo(RanoCg123) / 5025211185 <br />
-Sony Hermawan(AdonisZK) / 5025211226 <br />
+Rano Noumi Sulistyo(RanoCg123) <br />
+Sony Hermawan(AdonisZK) <br />
 
 ## Change Res Folder into Source Folder
 ### Eclipse
